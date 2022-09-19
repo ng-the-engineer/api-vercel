@@ -46,7 +46,7 @@
 
 "Open API 3", "Others", 1.5 , 7 , 2020
 "SCRUM", "Methodology", 6 , 8 , 2021
-"Kanban", "Methodology", 2 , 8 , 2022.5
+"Kanban", "Methodology", 2 , 8 , 2022.25
 "Waterfall", "Methodology", 9 , 10 , 2012
 
 "VB6", "Programming Language", 5 , 10 , 2006
@@ -109,7 +109,7 @@
 "BitBucket Pipeline", "DevOps", 0.5, 6, 2022.5
 "Kubernetes", "DevOps", 1.5, 6, 2021
 "Circle CI", "DevOps", 0.5, 6, 2021
-"Terraform", "DevOps", 1.5, 6, 2022.5
+"Terraform", "DevOps", 1.5, 6, 2022.25
 "Jenkins", "DevOps", 3, 6, 2018
 "Openshift", "DevOps", 0.3, 2, 2017
 "Vagrant", "DevOps", 0.5, 2, 2016
