@@ -103,9 +103,9 @@
 "Firebase", "Database", 0.5 , 6 , 2018
 
 "AWS Lambda", "Cloud Computing", 1, 9, 2022.5
-"AWS API Gateway", "Cloud Computing", 0.5, 6, 2022.5
+"AWS API Gateway", "Cloud Computing", 0.5, 6, 2022
 "AWS EKS", "Cloud Computing", 0.2, 6, 2021
-"Amazon Connect", "Cloud Computing", 0.5, 6, 2022.5
+"Amazon Connect", "Cloud Computing", 0.5, 6, 2022.25
 "Docker", "Cloud Computing", 4, 10, 2021.75
 "Docker compose", "Cloud Computing", 1, 8, 2021.5
 "AWS ECS", "Cloud Computing", 2.5, 6, 2019
