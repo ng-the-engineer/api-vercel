@@ -1,8 +1,8 @@
 "skill","category","exp","competency","lastUse"
-"Node JS","Javascript", 6, 10, 2021.75
-"Type Script","Javascript", 1, 7, 2021.5
+"Node JS","Javascript", 6.5, 10, 2022.75
+"Type Script","Javascript", 1.5, 8, 2022.5
 "Nest JS","Javascript",0.5, 7, 2021.3
-"Jest","Javascript",1, 9, 2020.5
+"Jest","Javascript",2, 10, 2022.5
 "Chai","Javascript",3.2, 9, 2019.5
 "Mocha","Javascript",2.8, 9, 2019.2
 "Vue JS","Javascript", 0.75, 6, 2017.8
@@ -46,13 +46,13 @@
 
 "Open API 3", "Others", 1.5 , 7 , 2020
 "SCRUM", "Methodology", 6 , 8 , 2021
-"Kanban", "Methodology", 1.5 , 6 , 2021
+"Kanban", "Methodology", 2 , 8 , 2022.5
 "Waterfall", "Methodology", 9 , 10 , 2012
 
 "VB6", "Programming Language", 5 , 10 , 2006
 "VB.net", "Programming Language", 1 , 7 , 2005.5
 "C#", "Programming Language", 1.5 , 6 , 2008
-"Javascript", "Programming Language", 8.75 , 10 , 2021.5
+"Javascript", "Programming Language", 9 , 10 , 2021.5
 "Scala", "Programming Language", 0.5 , 6 , 2017
 "Kotlin", "Programming Language", 0.5 , 6 , 2017.5
 "Ruby", "Programming Language", 0.5 , 6 , 2020
@@ -61,7 +61,7 @@
 "Octave", "Programming Language", 1 , 3 , 2009
 
 "JWT", "Security", 2 , 5 , 2019
-"Cryptography", "Security", 1.5 , 6 , 2009
+"Cryptography", "Security", 2 , 7 , 2009
 
 "Microservices", "Others", 7.7 , 10 , 2021
 "Performance Tuning", "Others", 4 , 8 , 2012.5
@@ -90,23 +90,26 @@
 "Oracle", "Database", 4, 9, 2007.5
 "MySQL", "Database", 2.5, 9, 2013.75
 "Postgresql", "Database", 5.5, 7, 2021
-"DynamoDB", "Database", 2, 9, 2021
+"DynamoDB", "Database", 2.5, 9, 2021
 "MongoDB", "Database", 0.5, 6, 2016.5
 "InfluxDB", "Database", 0.3, 3, 2016
 "Redis", "Database", 1.5 , 6 , 2019.5
 "Memcached", "Database", 0.5 , 4 , 2012
 "Firebase", "Database", 0.5 , 6 , 2018
 
-"AWS Serverless", "Cloud Computing", 0.6, 7, 2021.5
+"AWS Lambda", "Cloud Computing", 1, 9, 2022.5
+"AWS API Gateway", "Cloud Computing", 0.5, 6, 2022.5
 "AWS EKS", "Cloud Computing", 0.2, 6, 2021
+"Amazon Connect", "Cloud Computing", 0.5, 6, 2022.5
 "Docker", "Cloud Computing", 4, 10, 2021.75
 "Docker compose", "Cloud Computing", 1, 8, 2021.5
 "AWS ECS", "Cloud Computing", 2.5, 6, 2019
 "ELK", "Cloud Computing", 0.8 , 8 , 2017
 
+"BitBucket Pipeline", "DevOps", 0.5, 6, 2022.5
 "Kubernetes", "DevOps", 1.5, 6, 2021
 "Circle CI", "DevOps", 0.5, 6, 2021
-"Terraform", "DevOps", 1, 5, 2020
+"Terraform", "DevOps", 1.5, 6, 2022.5
 "Jenkins", "DevOps", 3, 6, 2018
 "Openshift", "DevOps", 0.3, 2, 2017
 "Vagrant", "DevOps", 0.5, 2, 2016
@@ -123,5 +126,5 @@
 "RabbitMQ", "Message-oriented Architecture", 2.5 , 7 , 2016
 "IBM MQ", "Message-oriented Architecture", 0.5 , 4 , 2010
 
-"Git", "Version Control", 8 , 10 , 2021.5
+"Git", "Version Control", 8.5 , 10 , 2022.5
 "SubVersion", "Version Control", 4.5 , 7 , 2012
