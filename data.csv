@@ -111,18 +111,14 @@
 "AWS ECS", "Cloud Computing", 3, 6, 2024.5
 "ELK", "Cloud Computing", 0.8 , 8 , 2017
 
-"BitBucket Pipeline", "DevOps", 0.5, 6, 2022.5
-"Buildkite Pipeline", "DevOps", 0.5, 3, 2023.25
-"Kubernetes", "DevOps", 1.5, 6, 2021
-"Circle CI", "DevOps", 0.5, 6, 2021
-"Terraform", "DevOps", 1.5, 6, 2022.25
-"Jenkins", "DevOps", 3.5, 6, 2024.5
-"Openshift", "DevOps", 0.3, 2, 2017
-"Vagrant", "DevOps", 0.5, 2, 2016
-"Chronograf", "DevOps", 0.2, 2, 2016.5
-"Nginx", "DevOps", 3, 7, 2020.75
-"Heroku", "DevOps", 0.3, 2, 2020
-"Github-Pages", "Others", 2 , 7 , 2023.25
-"GitLab CI", 0.5, 8, 2024.5
+"XMPP", "Real-time Messaging", 0.5 , 7 , 2012.5
+"Firebase", "Real-time Messaging", 0.5 , 4 , 2017
 
+"AWS EventBridge", "Message-oriented Architecture", 0.3, 7, 2021.3
+"BeeQueue/Redis", "Message-oriented Architecture", 0.5 , 4 , 2020.5
+"RabbitMQ", "Message-oriented Architecture", 2.5 , 7 , 2016
+"IBM MQ", "Message-oriented Architecture", 0.5 , 4 , 2010
+
+"Git", "Version Control", 10 , 10.5 , 2024.5
+"SubVersion", "Version Control", 4.5 , 7 , 2012
 
