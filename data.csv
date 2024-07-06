@@ -18,3 +18,24 @@
 "Sail JS","Javascript", 0.25, 3, 2016
 "Hapi","Javascript", 0.5, 5, 2017
 "Socket.io","Javascript", 1, 6, 2023.25
+
+"Java 11", "Java", 0.5, 6, 2020
+"Java 8", "Java", 3, 7, 2020 
+"Java 7", "Java", 1.5 , 6, 2013.5
+"Java 5", "Java", 4 , 10 ,2011
+"Java 1.4", "Java", 2.5 , 7 ,2007
+"Cucumber", "Java", 1 , 8 ,2018
+"Spring Boot", "Java", 4 , 7 ,2017
+"JUnit", "Java", 3 , 7 ,2020
+"Mockito", "Java", 0.5 , 6 ,2018
+"JMeter", "Java", 3 , 7 ,2018.5
+"Hibernate", "Java", 2 , 6 ,2012
+"JBoss", "Java", 1.5 , 6 ,2012
+"JPF", "Java", 1 , 8 ,2012
+"Swing", "Java", 1 , 7 ,2010
+"Hadoop", "Java", 0.75 , 4 ,2012
+"J2EE", "Java", 1 , 6 , 2011
+"Websphere", "Java", 1.5 , 6 , 2011
+"Struts", "Java", 3 , 6 , 2010.25
+"Java Concurrent", "Java", 2 , 7 , 2010.5
+"Java Swing", "Java", 2 , 7 , 2009
