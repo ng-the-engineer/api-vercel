@@ -127,3 +127,11 @@
 "Kubernetes", "DevOps", 1.5, 6, 2021
 "Circle CI", "DevOps", 0.5, 6, 2021
 "Terraform", "DevOps", 1.5, 6, 2022.25
+"Jenkins", "DevOps", 3.5, 6, 2024.5
+"Openshift", "DevOps", 0.3, 2, 2017
+"Vagrant", "DevOps", 0.5, 2, 2016
+"Chronograf", "DevOps", 0.2, 2, 2016.5
+"Nginx", "DevOps", 3, 7, 2020.75
+"Heroku", "DevOps", 0.3, 2, 2020
+"Github-Pages", "DevOps", 2 , 7 , 2023.25
+"GitLab CI", "DevOps", 0.5, 8, 2024.5
