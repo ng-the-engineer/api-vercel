@@ -89,3 +89,15 @@
 "Collaborative Filtering", "Machine Intelligence", 1.25 , 4 , 2012.75
 "Jacquard Algorithm", "Machine Intelligence", 1.5 , 4 , 2018
 "Lucene", "Machine Intelligence", 1 , 4 , 2012.75
+
+"SQL", "Database", 9.5, 10, 2024.5
+"Oracle", "Database", 4, 9, 2007.5
+"MySQL", "Database", 2.5, 9, 2013.75
+"Postgresql", "Database", 6.5, 7, 2024.5
+"DynamoDB", "Database", 2.5, 10, 2022.5
+"AWS S3", "Database", 1, 7, 2022.5
+"MongoDB", "Database", 0.5, 6, 2016.5
+"InfluxDB", "Database", 0.3, 3, 2016
+"Redis", "Database", 1.5 , 6 , 2019.5
+"Memcached", "Database", 0.5 , 4 , 2012
+"Firebase", "Database", 0.5 , 6 , 2018
