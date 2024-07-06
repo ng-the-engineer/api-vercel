@@ -62,3 +62,15 @@
 "C++", "Programming Language", 0.5 , 5 , 2009
 "Octave", "Programming Language", 1 , 3 , 2009
 "GoLang", "Programming Language", 0.5 , 4 , 2021
+
+"JWT", "Security", 3 , 8 , 2024.5
+"Cryptography", "Security", 4 , 7 , 2024.5
+"AWS STS", "Security", 0.25 , 6 , 2022
+
+"Microservices", "Others", 8 , 10 , 2024.5
+"Performance Tuning", "Others", 4 , 8 , 2012.5
+"EDI", "Others", 1 , 2 , 2008
+
+"CSS", "Web development", 6 , 8 , 2024.5
+
+"OLAP", "BI", 2.5 , 7 , 2012
