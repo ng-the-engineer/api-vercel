@@ -50,3 +50,15 @@
 "SCRUM", "Methodology", 6.5 , 9 , 2024.5
 "Kanban", "Methodology", 2.5 , 8 , 2023.5
 "Waterfall", "Methodology", 9 , 10 , 2012
+
+"VB6", "Programming Language", 5 , 10 , 2006
+"VB.net", "Programming Language", 1 , 7 , 2005.5
+"C#", "Programming Language", 1.5 , 6 , 2008
+"Javascript", "Programming Language", 11 , 10 , 2024.5
+"Scala", "Programming Language", 0.5 , 6 , 2017
+"Kotlin", "Programming Language", 0.5 , 6 , 2017.5
+"Ruby", "Programming Language", 0.5 , 6 , 2020
+"Go Lang", "Programming Language", 0.5 , 3 , 2020
+"C++", "Programming Language", 0.5 , 5 , 2009
+"Octave", "Programming Language", 1 , 3 , 2009
+"GoLang", "Programming Language", 0.5 , 4 , 2021
