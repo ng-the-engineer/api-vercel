@@ -101,3 +101,13 @@
 "Redis", "Database", 1.5 , 6 , 2019.5
 "Memcached", "Database", 0.5 , 4 , 2012
 "Firebase", "Database", 0.5 , 6 , 2018
+
+"AWS Lambda", "Cloud Computing", 1, 9, 2022.5
+"AWS API Gateway", "Cloud Computing", 0.5, 6, 2022
+"AWS EKS", "Cloud Computing", 0.2, 6, 2021
+"Amazon Connect", "Cloud Computing", 1, 7, 2023.25
+"Docker", "Cloud Computing", 4.5, 10, 2024.5
+"Docker compose", "Cloud Computing", 1, 8, 2021.5
+"AWS ECS", "Cloud Computing", 3, 6, 2024.5
+"ELK", "Cloud Computing", 0.8 , 8 , 2017
+
