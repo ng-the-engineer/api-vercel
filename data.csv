@@ -122,3 +122,8 @@
 "Git", "Version Control", 10 , 10.5 , 2024.5
 "SubVersion", "Version Control", 4.5 , 7 , 2012
 
+"BitBucket Pipeline", "DevOps", 0.5, 6, 2022.5
+"Buildkite Pipeline", "DevOps", 0.5, 3, 2023.25
+"Kubernetes", "DevOps", 1.5, 6, 2021
+"Circle CI", "DevOps", 0.5, 6, 2021
+"Terraform", "DevOps", 1.5, 6, 2022.25
