@@ -1,16 +1,16 @@
 "skill","category","exp","competency","lastUse"
-"Next JS", "Javascript", 1, 8, 2024.5
-"Fastify JS", "Javascript", 0.5, 6, 2024.5
-"Node JS","Javascript", 8, 10, 2024.5
-"TypeScript","Javascript", 4, 10, 2024.5
+"Next JS", "Javascript", 2, 7, 2025.5
+"Fastify JS", "Javascript", 1.5, 8, 2025.5
+"Node JS","Javascript", 9, 10, 2025.5
+"TypeScript","Javascript", 5, 10, 2025.5
 "Nest JS","Javascript",0.5, 7, 2021.5
-"Jest","Javascript",4.5, 10, 2024.5
+"Jest","Javascript",5.5, 10, 2025.5
 "Chai","Javascript",3.2, 9, 2019.5
 "Mocha","Javascript",2.8, 9, 2019.2
 "Vue JS","Javascript", 0.75, 6, 2017.8
-"React JS","Javascript", 4, 9, 2024.5
+"React JS","Javascript", 5, 9, 2025.5
 "Angular JS","Javascript", 2, 7, 2016
-"Express JS","Javascript", 6, 9, 2019
+"Express JS","Javascript", 7, 10, 2025.5
 "Kraken JS","Javascript", 2, 7, 2015
 "JQuery","Javascript", 2, 6, 2014
 "KOA 2","Javascript", 5.5, 8, 2020
@@ -48,14 +48,14 @@
 "Crystal Report 10", "BI", 6 , 10 , 2007
 
 "Open API 3", "Others", 3 , 8 , 2024.5
-"SCRUM", "Methodology", 6.5 , 9 , 2024.5
+"SCRUM", "Methodology", 7.5 , 10 , 2025.5
 "Kanban", "Methodology", 2.5 , 8 , 2023.5
 "Waterfall", "Methodology", 9 , 10 , 2012
 
 "VB6", "Programming Language", 5 , 10 , 2006
 "VB.net", "Programming Language", 1 , 7 , 2005.5
 "C#", "Programming Language", 1.5 , 6 , 2008
-"Javascript", "Programming Language", 11 , 10 , 2024.5
+"Javascript", "Programming Language", 12 , 10 , 2025.5
 "Scala", "Programming Language", 0.5 , 6 , 2017
 "Kotlin", "Programming Language", 0.5 , 6 , 2017.5
 "Ruby", "Programming Language", 0.5 , 6 , 2020
@@ -64,15 +64,15 @@
 "Octave", "Programming Language", 1 , 3 , 2009
 "GoLang", "Programming Language", 0.5 , 4 , 2021
 
-"JWT", "Security", 3 , 8 , 2024.5
-"Cryptography", "Security", 4 , 7 , 2024.5
-"AWS STS", "Security", 0.25 , 6 , 2022
+"JWT", "Security", 4 , 9 , 2025.5
+"Cryptography", "Security", 5 , 8 , 2025.5
+"AWS STS", "Security", 0.5 , 6 , 2025
 
-"Microservices", "Others", 8 , 10 , 2024.5
+"Microservices", "Others", 9 , 10 , 2025.5
 "Performance Tuning", "Others", 4 , 8 , 2012.5
 "EDI", "Others", 1 , 2 , 2008
 
-"CSS", "Web development", 6 , 8 , 2024.5
+"CSS", "Web development", 7 , 9 , 2025.5
 
 "OLAP", "BI", 2.5 , 7 , 2012
 
@@ -91,12 +91,12 @@
 "Jacquard Algorithm", "Machine Intelligence", 1.5 , 4 , 2018
 "Lucene", "Machine Intelligence", 1 , 4 , 2012.75
 
-"SQL", "Database", 9.5, 10, 2024.5
+"SQL", "Database", 10.5, 10, 2025.5
 "Oracle", "Database", 4, 9, 2007.5
 "MySQL", "Database", 2.5, 9, 2013.75
-"Postgresql", "Database", 6.5, 7, 2024.5
+"Postgresql", "Database", 7.5, 8, 2027.5
 "DynamoDB", "Database", 2.5, 10, 2022.5
-"AWS S3", "Database", 1, 7, 2022.5
+"AWS S3", "Database", 2, 7, 2025.5
 "MongoDB", "Database", 0.5, 6, 2016.5
 "InfluxDB", "Database", 0.3, 3, 2016
 "Redis", "Database", 1.5 , 6 , 2019.5
@@ -121,7 +121,7 @@
 "RabbitMQ", "Message-oriented Architecture", 2.5 , 7 , 2016
 "IBM MQ", "Message-oriented Architecture", 0.5 , 4 , 2010
 
-"Git", "Version Control", 10 , 10.5 , 2024.5
+"Git", "Version Control", 11 , 10 , 2025.5
 "SubVersion", "Version Control", 4.5 , 7 , 2012
 
 "BitBucket Pipeline", "DevOps", 0.5, 6, 2022.5
@@ -129,11 +129,11 @@
 "Kubernetes", "DevOps", 1.5, 6, 2021
 "Circle CI", "DevOps", 0.5, 6, 2021
 "Terraform", "DevOps", 1.5, 6, 2022.25
-"Jenkins", "DevOps", 3.5, 6, 2024.5
+"Jenkins", "DevOps", 4.5, 7, 2025.5
 "Openshift", "DevOps", 0.3, 2, 2017
 "Vagrant", "DevOps", 0.5, 2, 2016
 "Chronograf", "DevOps", 0.2, 2, 2016.5
 "Nginx", "DevOps", 3, 7, 2020.75
 "Heroku", "DevOps", 0.3, 2, 2020
 "Github-Pages", "DevOps", 2 , 7 , 2023.25
-"GitLab CI", "DevOps", 0.5, 8, 2024.5
+"GitLab CI", "DevOps", 1.5, 9, 2025.5
