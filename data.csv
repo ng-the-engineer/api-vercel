@@ -40,6 +40,7 @@
 "Java Concurrent", "Java", 2 , 7 , 2010.5
 "Java Swing", "Java", 2 , 7 , 2009
 
+"Fast", "Python", 0.5, 5, 2025
 "Django", "Python", 1 , 6 , 2016
 "Pandas", "Python", 1 , 4 , 2014
 
@@ -114,6 +115,7 @@
 "XMPP", "Real-time Messaging", 0.5 , 7 , 2012.5
 "Firebase", "Real-time Messaging", 0.5 , 4 , 2017
 
+"Kafka", "Message-oriented Architecture", 0.5, 7, 2025.5
 "AWS EventBridge", "Message-oriented Architecture", 0.3, 7, 2021.3
 "BeeQueue/Redis", "Message-oriented Architecture", 0.5 , 4 , 2020.5
 "RabbitMQ", "Message-oriented Architecture", 2.5 , 7 , 2016
